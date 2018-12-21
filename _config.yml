@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "ko-KR"
+title                    : "Esther Maneg / Become a batter one"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "맹에스더"
+description              : &description "개인 공부 및 프로젝트 기록을 위한 사이트입니다."
 url                      : https://esther9998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Esther Maeng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "My life is developing, designing, paingting, thinking of the world stupid things"
+  location         : "서울 송파구"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
