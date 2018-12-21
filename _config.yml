@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Esther Maneg / Become a batter one"
+title                    : "Become a batter one"
 title_separator          : "-"
 name                     : &name "맹에스더"
 description              : &description "개인 공부 및 프로젝트 기록을 위한 사이트입니다."
