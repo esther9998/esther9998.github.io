@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "다시 Java"
+    url: /post-archive/
     
   - title: "CV"
     url: /cv/
