@@ -1,11 +1,15 @@
 ---
 title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+date: 2018-12-27
+permalink: /posts/2018/12/chapter03/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Operator
+  - Operator precedence
 ---
+확인 문제
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+1. 연산자와 연산식
+2. 연산의 방향과 우선순위
+3. 단항 연산자
+4. 이항 연산자
+5. 삼항 연산자
